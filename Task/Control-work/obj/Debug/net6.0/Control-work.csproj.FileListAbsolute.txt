@@ -1,0 +1,15 @@
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Контрольная работа\Task\Control-work\bin\Debug\net6.0\Control-work.exe
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Контрольная работа\Task\Control-work\bin\Debug\net6.0\Control-work.deps.json
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Контрольная работа\Task\Control-work\bin\Debug\net6.0\Control-work.runtimeconfig.json
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Контрольная работа\Task\Control-work\bin\Debug\net6.0\Control-work.dll
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Контрольная работа\Task\Control-work\bin\Debug\net6.0\Control-work.pdb
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Контрольная работа\Task\Control-work\obj\Debug\net6.0\Control-work.csproj.AssemblyReference.cache
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Контрольная работа\Task\Control-work\obj\Debug\net6.0\Control-work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Контрольная работа\Task\Control-work\obj\Debug\net6.0\Control-work.AssemblyInfoInputs.cache
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Контрольная работа\Task\Control-work\obj\Debug\net6.0\Control-work.AssemblyInfo.cs
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Контрольная работа\Task\Control-work\obj\Debug\net6.0\Control-work.csproj.CoreCompileInputs.cache
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Контрольная работа\Task\Control-work\obj\Debug\net6.0\Control-work.dll
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Контрольная работа\Task\Control-work\obj\Debug\net6.0\refint\Control-work.dll
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Контрольная работа\Task\Control-work\obj\Debug\net6.0\Control-work.pdb
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Контрольная работа\Task\Control-work\obj\Debug\net6.0\Control-work.genruntimeconfig.cache
+C:\Users\ЗС\Desktop\24.05.23FedyuninIvan\Контрольная работа\Task\Control-work\obj\Debug\net6.0\ref\Control-work.dll
